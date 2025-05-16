@@ -40,9 +40,8 @@ Interactive visuals include:
 ```
 📦 healthcare-no-show-prediction
 ├── healthcare_no_show_prediction.ipynb     # Python notebook with code
-├── sample_no_show_data.csv                 # Cleaned dataset (optional)
 ├── Healthcare_No_Show_Report.pdf           # Final 2-page report
-├── Healthcare_No_Show_Dashboard.pbix       # Power BI dashboard (manual)
+├── Healthcare_No_Show_Dashboard.pbix       # Power BI dashboard
 └── README.md                               # This file
 ```
 
